@@ -6,6 +6,7 @@ let resturant = {
     isVegan : false
 }
 let name = resturant.name
+let city = resturant.city
 let favoriteDrink = resturant("favorit drink")
 
 
